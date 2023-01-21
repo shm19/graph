@@ -25,3 +25,11 @@ start by
 ```bash
 python3 app.py
 ```
+
+some sample pictures
+
+<!-- ![image1](./images/1.png) ![image1](./images/2.png)![image3](./images/2.png) -->
+
+| sample 1                 | image 2                  |
+| :----------------------- | :----------------------- |
+| ![image](./images/1.png) | ![image](./images/2.png) |
