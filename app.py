@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import itertools
 
 
+open('subgraphs.txt', 'w').close()
+
 G = nx.read_edgelist('graph.txt', nodetype=int, data=(('weight', float),))
 all_connected_subgraphs = []
 
